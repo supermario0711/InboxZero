@@ -199,26 +199,6 @@ If you prefer manual editing, key sections to modify:
 - Archiving logic in `processEmailsDaily()`
 - HTML templates in summary generation
 
-## 📊 Example Output
-
-```
-📧 Gmail Assistant Daily Summary - March 15, 2024
-
-🚨 URGENT (2 items)
-• Client deadline confirmation needed - ProjectCorp
-• Server maintenance window approval - IT Team
-
-📋 TO DO (5 items)
-• Team meeting rescheduling - Sarah M.
-• Quarterly report review - Manager
-...
-
-📰 CREATOR NEWSLETTERS (3 items)
-• Morning Brew: Market volatility insights, crypto regulations update
-  Read if: You track financial markets and investment trends
-...
-```
-
 ## 🤝 Contributing
 
 Contributions welcome! Please read our contributing guidelines and submit pull requests for any improvements.
