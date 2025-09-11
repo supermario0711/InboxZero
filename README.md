@@ -36,7 +36,7 @@ Receive twice-daily email summaries that:
 - **Aggregate** similar emails intelligently (e.g., all social notifications in one section)
 - **Summarize** newsletter content individually with key insights
 - **Highlight** urgent items requiring immediate attention
-- **Include** direct links to original emails for quick access
+- **Include** direct links to original emails for quick access (only works on Desktop)
 
 ### 🗃️ **Automated Archiving Logic**
 Category-specific archiving rules:
