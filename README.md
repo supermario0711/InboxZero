@@ -40,10 +40,20 @@ Receive twice-daily email summaries that:
 
 ### 🗃️ **Automated Archiving Logic**
 Category-specific archiving rules:
-- **Promotions**: Auto-archive immediately
+
+**Action Categories** (Never auto-archive):
+- **Urgent**: Stay in inbox
+- **To Do**: Stay in inbox  
+- **Waiting**: Stay in inbox
+- **Security Alert**: Stay in inbox
+
+**Reference Categories**:
+- **Financials**: Archive after 7 days (with 5-day notice)
+- **Creator Newsletters**: Auto-archive immediately (after summary generation)
+- **Social & Community**: Auto-archive immediately
 - **Purchases**: Archive after 7 days (with 2-day notice)
-- **Action items**: Never auto-archive
-- **Reference**: Custom retention based on category
+- **Promotions**: Auto-archive immediately
+- **Misc**: Keep in inbox
 
 ## 💰 Cost Estimate
 
@@ -104,6 +114,20 @@ Category-specific archiving rules:
    - Run the `processEmailsDaily` function manually first
    - Check your Gmail for the summary email
    - Verify emails are being categorized with labels
+
+7. **Configure label colors (after running LIMITED or FULL mode)**
+   - Go to Gmail → Settings → Labels in the left sidebar
+   - Manually assign colors to the created labels for better visual organization
+   - Suggested colors:
+     - **Urgent**: Red
+     - **Security Alert**: Red
+     - **To Do**: Yellow
+     - **Waiting**: Blue
+     - **Social & Community**: Light Blue
+     - **Purchases**: Light Orange
+     - **Promotions**: Light Pink
+     - **Financial**: Light Green
+     - **Misc**: Light Gray
 
 ### Configuration & Safety Modes
 
