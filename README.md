@@ -86,14 +86,14 @@ Category-specific archiving rules:
 
 ### Installation
 
-1. **Open Google Apps Script**
-   - Go to [script.google.com](https://script.google.com)
-   - Create a new project
-
-2. **Copy the code**
+1. **Copy the code**
    - Copy the entire contents of `code.gs` from this repository
    - Paste it into your Apps Script editor
    - Save the project
+
+2. **Open Google Apps Script**
+   - Go to [script.google.com](https://script.google.com)
+   - Create a new project
 
 3. **Enable Gemini API**
    - Go to [Google AI Studio](https://aistudio.google.com)
