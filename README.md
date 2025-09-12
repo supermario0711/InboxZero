@@ -95,8 +95,10 @@ Category-specific archiving rules:
    - Paste it into your Apps Script editor
    - Save the project
 
-3. **Enable Gemini API**
+3. **Get Gemini API key**
    - Go to [Google AI Studio](https://aistudio.google.com)
+   - Get your Gemini API key (free tier available)
+   - If you don't have a project yet, create one at [Google Cloud](https://console.cloud.google.com)
    - Get your Gemini API key (free tier available)
    - Add the API key to your Apps Script project
 
