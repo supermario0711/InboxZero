@@ -132,7 +132,7 @@ You can find a video instruction here: [https://youtu.be/MDlQQy4D60c](https://yo
      - **Misc**: Light Gray
     
 ### Sample Output
-[InboxZero Sample Output](InboxZero_Sample.png)
+!([InboxZero_Sample.png](https://github.com/supermario0711/InboxZero/blob/main/InboxZero_Sample.png)
 
 ### Configuration & Safety Modes
 
