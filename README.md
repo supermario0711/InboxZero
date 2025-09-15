@@ -86,6 +86,8 @@ Category-specific archiving rules:
 
 ### Installation
 
+You can find a video instruction here: [https://youtu.be/MDlQQy4D60c](https://youtu.be/MDlQQy4D60c)
+
 1. **Copy the code**
    - Copy the entire contents of `code.gs` from this repository
 
@@ -128,6 +130,9 @@ Category-specific archiving rules:
      - **Promotions**: Light Pink
      - **Financial**: Light Green
      - **Misc**: Light Gray
+    
+### Sample Output
+[InboxZero Sample Output](InboxZero Sample.png)
 
 ### Configuration & Safety Modes
 
